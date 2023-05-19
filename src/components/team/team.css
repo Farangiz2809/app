@@ -1,0 +1,24 @@
+.border-1 {
+    border:solid;
+    border-style: outset;
+    margin: 5px;
+    border-color: rgb(61, 32, 50);
+    font-weight: 600;
+    padding: 3px;
+    font-style: italic;
+    border-radius: 25%;
+    width:8%;
+}
+.border:hover{
+    background-color: rgb(189, 154, 154);
+}
+.border2{
+    border: solid;
+    border-right-color: rgb(181, 140, 140);
+    width: 35%;
+    border-radius: 25%;
+    margin-left: 10px;
+    border-style:ridge;
+    padding-left: 10px;
+    padding-right: 10px;
+}
